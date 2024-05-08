@@ -7,7 +7,7 @@ Welcome to our application! Below are the steps to get it up and running on your
 1. **Clone the Repository**: Start by creating a local copy of the project on your machine.
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Jeshan04/pancard_tampering_detection.git
     ```
 
 2. **Navigate to Project Directory**: Open your command prompt or terminal and change your current directory to the folder where you can find the `app.py` file.
