@@ -1,4 +1,4 @@
-# How to Run the Application
+# How to Run the App on your system.
 
 Welcome to Pancard Tampering Detection webapp. Below are the steps to get it up and running on your local machine.
 
